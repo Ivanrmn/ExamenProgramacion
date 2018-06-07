@@ -4,7 +4,7 @@ package org.mvpigs.commandpattern.interfaces;
  * La interfaz Pedido implementa los metodos:
  * 
  * peso
- * @param 		void
+ * @param
  * @return      el peso del pedido
  * 
  * destino
