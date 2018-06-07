@@ -8,7 +8,6 @@ package org.mvpigs.commandpattern.interfaces;
  * @return      el peso del pedido
  * 
  * destino
- * @param 		void
  * @return 		el destino del pedido
  */
 
