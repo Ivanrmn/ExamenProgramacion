@@ -4,7 +4,7 @@ package org.mvpigs.commandpattern.interfaces;
  * La interfaz procesador implementa el metodo:
  * 
  * recibe
- * @param  TratamientoPedido 
+ * @param
  * @return   boolean
  *           true si es posible tratar el pedido
  *           false si no es posible tratar el pedido 
